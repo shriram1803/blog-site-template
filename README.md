@@ -1,2 +1,2 @@
 # blog-site-template
-A simple blog page developed using Node JS, Express JS and EJS
+A simple Blog page template developed using Node JS, Express JS and EJS
